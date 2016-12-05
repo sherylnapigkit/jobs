@@ -1,0 +1,10 @@
+util/PropertyUtil.class
+vo/Company.class
+vo/Filter.class
+coreservice/JobService.class
+util/Constants.class
+util/JsonToJobsMapper.class
+vo/Job.class
+vo/FilterRequest.class
+vo/JobSearchResult.class
+vo/Generic.class

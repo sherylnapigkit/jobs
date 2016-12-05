@@ -1,0 +1,4 @@
+jobs=https://api-v2.themuse.com/jobs?
+companies=https://api-v2.themuse.com/companies?
+posts=https://api-v2.themuse.com/posts?
+coaches=https://api-v2.themuse.com/coaches?
